@@ -15,7 +15,5 @@
   - [using Azure VMs to configure Active Directory](https://github.com/NickMvrz/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NickMvrz/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
--www.linkedin.com/in/nick-martinez-mvrz
 
 
