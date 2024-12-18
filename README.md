@@ -4,8 +4,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Wireshark: Packet Capturing and Observing Network Traffic</b>
-[Wireshark: ](https://github.com/NickMvrz/osticket-prereqs)
+- <b>Network Analyzing</b>
+  - [Wireshark: Packet Capturing and Observing Network Traffic ](https://github.com/NickMvrz/observing-network-traffic-via-wireshark)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NickMvrz/osticket-prereqs)
