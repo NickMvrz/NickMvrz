@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>I'm Nick, an IT Specialist.
+<h1>I'm Nick, an aspiring IT Specialist.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
