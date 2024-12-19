@@ -13,7 +13,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/NickMvrz/ticket-lifecycle)
 - <b>Setting up Active Directory (Azure)</b>
   - [using Azure VMs to configure Active Directory (W.I.P)](https://github.com/NickMvrz/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols (W.I.P)](https://github.com/NickMvrz/azure-network-protocols)
+ 
 
 
 
